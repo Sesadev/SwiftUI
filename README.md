@@ -1,7 +1,7 @@
 ## `SwiftUI` Examples
 
 <img align="left" src="Previews/animatable-cards.gif" width="280">
-
+## jITENDRA PRADHAN
 ### About
 
 Examples projects using `SwiftUI` & `Combine`.  
